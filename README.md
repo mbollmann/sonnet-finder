@@ -39,63 +39,63 @@ This is a sonnet (with cherry-picked lines) made out of [**my PhD
 thesis**](https://www.linguistics.rub.de/forschung/arbeitsberichte/22.pdf):
 
 > the application of existing tools  
-> describe a mapping to a modern form
-> applying similar replacement rules
-> the base ensembles slightly outperform
+> describe a mapping to a modern form  
+> applying similar replacement rules  
+> the base ensembles slightly outperform  
 >
-> hungarian, icelandic, portuguese
-> perform a similar evaluation
-> contemporary lexemes or morphemes
-> a single dataset in isolation
+> hungarian, icelandic, portuguese  
+> perform a similar evaluation  
+> contemporary lexemes or morphemes  
+> a single dataset in isolation  
 >
-> historical and modern language stages
-> the weighted combination of encoder
-> the german dative ending -e in phrases
-> predictions fed into the next decoder
+> historical and modern language stages  
+> the weighted combination of encoder  
+> the german dative ending -e in phrases  
+> predictions fed into the next decoder  
 >
-> in this example from the innsbruck letter
+> in this example from the innsbruck letter  
 > machine translation still remains the better
 
 These stanzas are compiled from a couple of automatically-generated suggestions
 based on the **_abstracts_ of all papers published in 2021 in the [ACL
 Anthology](https://aclanthology.org/)**:
 
-> effective algorithm that enables
-> improvements on a wide variety
-> and training with adjudicated labels
-> anxiety and test anxiety
+> effective algorithm that enables  
+> improvements on a wide variety  
+> and training with adjudicated labels  
+> anxiety and test anxiety  
 >
-> obtain remarkable improvements on
-> decoder architecture, which equips
-> associated with the lexicon
-> surprising personal relationships
+> obtain remarkable improvements on  
+> decoder architecture, which equips  
+> associated with the lexicon  
+> surprising personal relationships  
 >
-> achieves the same embedding quality
-> the current efforts of explaining such
-> detect and filter out low-quality
-> and smaller datasets in german, dutch
+> achieves the same embedding quality  
+> the current efforts of explaining such  
+> detect and filter out low-quality  
+> and smaller datasets in german, dutch  
 >
-> examples, while in practice, most unseen
+> examples, while in practice, most unseen  
 > evaluate translation tasks between
 
 Here's the same using [Moby Dick](https://www.gutenberg.org/ebooks/2701):
 
-> among the marble senate of the dead
-> offensive matters consequent upon
-> a crawling reptile of the land, instead
-> fifteen, eighteen, and twenty hours on
+> among the marble senate of the dead  
+> offensive matters consequent upon  
+> a crawling reptile of the land, instead  
+> fifteen, eighteen, and twenty hours on  
 >
-> the lakeman now patrolled the barricade
-> egyptian tablets, whose antiquity
-> the waters seemed a golden finger laid
-> maintains a permanent obliquity
+> the lakeman now patrolled the barricade  
+> egyptian tablets, whose antiquity  
+> the waters seemed a golden finger laid  
+> maintains a permanent obliquity  
 >
-> the pequod with the little negro pippin
-> and with a frightful roll and vomit, he
-> increased, besides perhaps improving it in
-> transparent air into the summer sea
+> the pequod with the little negro pippin  
+> and with a frightful roll and vomit, he  
+> increased, besides perhaps improving it in  
+> transparent air into the summer sea  
 >
-> the traces of a simple honest heart
+> the traces of a simple honest heart  
 > the fishery, and not the thousandth part
 
 *(The emjambment in the third stanza here is a lucky coincidence; the script
