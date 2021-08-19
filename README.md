@@ -38,7 +38,7 @@ hardware requirements.
 This is a sonnet (with cherry-picked lines) made out of [**my PhD
 thesis**](https://www.linguistics.rub.de/forschung/arbeitsberichte/22.pdf):
 
-> the application of existing tools
+> the application of existing tools \\
 > describe a mapping to a modern form
 > applying similar replacement rules
 > the base ensembles slightly outperform
