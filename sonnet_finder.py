@@ -469,7 +469,7 @@ def main(args):
     g2p = G2p()
 
     with open(args["TEXTFILE"], "r") as f:
-        lines = [l.strip() for l in f if is_natural_language(l)]
+        lines = [l.strip() for l in f if l.strip()]
     log.debug(f"Read {len(lines)} lines from {args['TEXTFILE']}")
 
     candidates = []
