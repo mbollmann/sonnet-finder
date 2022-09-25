@@ -483,7 +483,14 @@ def main(args):
             # pronunciation prediction on these words
             sentence = sentence.replace("-", " - ")
 
-            pron = g2p(sentence)
+            try:
+                pron = g2p(sentence)
+            except Exception:
+                # Something weird is going on here, e.g.
+                # inflect.NumOutOfRangeError when input contains a long string
+                # of digits
+                continue
+
             candidates.extend(phrase for phrase in extract_phrases(sentence, pron))
 
     log.info(f"Extracted {len(candidates)} candidate phrases.")
